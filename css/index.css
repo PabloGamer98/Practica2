@@ -1,0 +1,49 @@
+form{
+	margin-top: 5%;
+	margin-left: 43%;
+}
+
+input,select{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 30%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+#select_random{
+	margin-top: 4%;
+	width: 20%;
+	margin-left: -18.6%;
+	position: absolute;
+}
+
+
+#btn_submit{
+
+}
+
+.cont2{
+	text-align: center;
+	width: 20%;
+	display: inline-block;
+	height: 100%;
+	margin-left: 20%;
+	margin-top: 7%;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.cont1{
+	text-align: center;
+	width: 20%;
+	display: inline-block;
+	height: 100%;
+	margin-left: 20%;
+	margin-top: 7%;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
